@@ -1,7 +1,8 @@
 ### Hi! Yago here 👋
 
-- 🔭 Projetos pessoais focados no no front/back-end
-- 🌱 Atualmente estou estudando ReactJS e Typescript
+- 🔭 Projetos pessoais focados no back/front-end
+- 👨‍💻 Desenvolvedor Full-stack
+- 🤓 Atualmente estou estudando ReactJS e Typescript
 - 📫 Contate-me pelo email: yagosousa630@gmail.com 
 - 😄 Pronomes: Ele/Dele
 
