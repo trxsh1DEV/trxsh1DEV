@@ -2,7 +2,7 @@
 
 - 🔭 Projetos pessoais focados no back/front-end
 - 👨‍💻 Desenvolvedor Full-stack
-- 🤓 Atualmente estou estudando ReactJS e Typescript
+- 🤓 Atualmente estou estudando ReactJS, NodeJS e Typescript
 - 📫 Contate-me pelo email: yagosousa630@gmail.com 
 - 😄 Pronomes: Ele/Dele
 
