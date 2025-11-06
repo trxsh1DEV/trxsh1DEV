@@ -12,13 +12,13 @@ Desenvolvedor Full Stack Pleno especializado em construir soluções escaláveis
 
 **Frontend**
 ```
-TypeScript, React, Vue.js, Next.js, Tailwind, Shadcn/ui, MUI, Saas,
-React Query, Zustand, Context API
+TypeScript, React, React Native, Vue.js, Next.js, Tailwind, Shadcn/ui
+styled-components, MUI, Saas, React Query, Zustand, Context API
 ```
 
 **Backend**
 ```
-Node.js, NestJS, Express, Fastify, C#, .NET, Windows Services, TypeORM, Drizzle,
+Node.js, NestJS, Express, Fastify, C#, .NET, TypeORM, Drizzle,
 WebSockets, JWT, OAuth2, RabbitMQ/BullMQ, RBAC
 ```
 
