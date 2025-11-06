@@ -72,7 +72,7 @@ Jest • Vitest • Testes Integrados
 
 ##
 
-### 📫 Let's Connect
+### 📫 Meus contatos
 
 <div align="center">
   <a href="mailto:yagosousa630@gmail.com">
@@ -89,12 +89,4 @@ Jest • Vitest • Testes Integrados
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=trxsh1DEV&color=blue&style=flat-square" alt="Profile views"/>
-</div>
-
 ---
-
-<div align="center">
-  <i>💻 "Building scalable solutions, one commit at a time."</i>
-</div>
